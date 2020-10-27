@@ -1,5 +1,5 @@
 {
-	"content": ":loudspeaker: Хей @everyone! {{virginsfury}} сейчас стримит {{https://www.twitch.tv/virginsfury}} ! Залетайте! :wink:",
+	"content": ":loudspeaker: Хей у стримера прошёл стрим! :wink:",
 	"embeds": [{
 		"color": 6570405,
 		"author": {
@@ -7,7 +7,7 @@
 			"url": "{{ChannelUrl}}",
 			"icon_url": "https://imgur.com/a/bIWpET0"
 		},
-		"description": "**[{{ChannelName}}]({{ChannelUrl}})** сейчас стримит на Twitch!",
+		"description": "**[{{ChannelName}}]({{ChannelUrl}})** стрим на Twitch!",
 		"fields": [{
 			"name": ":video_game: Game",
 			"value": "{{Game}}",
